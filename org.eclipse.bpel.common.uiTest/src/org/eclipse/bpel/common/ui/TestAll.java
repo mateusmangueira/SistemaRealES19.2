@@ -27,7 +27,6 @@ import org.junit.runners.Suite;
 	org.eclipse.bpel.common.ui.command.TestAll.class,
 	org.eclipse.bpel.common.ui.decorator.TestAll.class,
 	org.eclipse.bpel.common.ui.details.TestAll.class,
-	org.eclipse.bpel.common.ui.editmodel.TestAll.class,
 	org.eclipse.bpel.common.ui.figures.TestAll.class,
 	org.eclipse.bpel.common.ui.flatui.TestAll.class,
 	org.eclipse.bpel.common.ui.layouts.TestAll.class,
